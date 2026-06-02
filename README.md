@@ -123,4 +123,4 @@ Record a short demo showing:
 
 Upload the video to Google Drive and paste the share link here:
 
-`Demo link: <add Google Drive link>`
+`Demo link: `
